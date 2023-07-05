@@ -1,4 +1,4 @@
-# 2Hack---GWPass
+# Extracion de Passwords
 Este repositorio tiene, un archivo python el cual tiene dos funciones la primera es extraer las claves Wi-Fi del computador y la segunda extraer las contraseñas de Google. By: 2Hack - S4mura1
 
 Funcionalidad: 
