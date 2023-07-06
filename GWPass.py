@@ -27,7 +27,7 @@ time.sleep(2)
 #copiar informacion
 pyautogui.press("up")
 pyautogui.write(" > ", interval=0.1)
-pyautogui.write("E:GWPass.txt", interval=0.1)
+pyautogui.write("E:GWPass.txt", interval=0.1) #cambiar lugar de almacenamiento
 pyautogui.press("enter")
 time.sleep(2)
 
@@ -52,7 +52,7 @@ pyautogui.press("enter")
 
 #--------------------------------#
 
-pyautogui.write("E:\Password-Google", interval=0.1)
+pyautogui.write("E:\Password-Google", interval=0.1) #Cambiar lugar de almacenamiento
 
 
 
