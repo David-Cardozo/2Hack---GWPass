@@ -22,7 +22,7 @@ pip install requirements.txt
 Despues de clonar el repositorio e instalar lo requerimientos necesarios, puede usar el malware ejecutando el siguiente comando: <br> <br>
 
 ```sh
-python GWPass.py 
+python Extract_Passwords
 ```
 
 <h2>🌩️ Advertencia:</h2>
