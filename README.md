@@ -1,6 +1,6 @@
-<center><h2>Password_Extraction</h2></center>
+<h2 align="center">Password_Extraction</h2>
 
-![Alt text](f1eda4768df8d8135c779772f2833e88-1302985658-1.gif)
+![imagen](https://github.com/Mr-S4mura1/Password_Extraction/assets/113269686/e178e04b-d93b-434e-bb36-bce717c1f45f)
 
 Password Extraction es una malware el cual recoppila contraseñas guardadas en el computador, en general realiza las siguentes cosas
 
@@ -20,10 +20,10 @@ pip install requirements.txt
 
 <h2> ️⚓ Uso:</h2>
 Despues de clonar el repositorio e instalar lo requerimientos necesarios, puede usar el malware ejecutando el siguiente comando: <br> <br>
+
 ```sh
 python GWPass.py 
 ```
-<br>
 
 <h2>🌩️ Advertencia:</h2>
 <strong>Extract_Password</strong> es de fines educactivos. No me hago responsable por el uso inadecuado que se le de al malware, todo es con fines de vizualisacion.  Por Favoe ultilize este script con Etica y responsabiliad.
@@ -32,4 +32,4 @@ python GWPass.py
 <br>
 <br>
 
-<center><strong>©S4mura1_2023</strong></center>
+<h4 align="center">©S4mura1_2023</h4>
